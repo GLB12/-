@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\leiboguo\source\repos\test\test\main.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\leiboguo\source\repos\test\test\main.cpp(16): warning C4715: “fun”: 不是所有的控件路径都返回值
+  test.vcxproj -> C:\Users\leiboguo\source\repos\test\Debug\test.exe
